@@ -4,9 +4,9 @@
 Đây là một game 2D đơn giản dạng platform. Game này tập trung vào việc tạo ra một game nhẹ nhàng với phong cách đồ họa dạng pixel.
 
 ## ✨ Cách chơi
-* **Di chuyển** Người chơi ấn phím A,W,D hoặc phím mũi tên để di chuyển.
-* **Ăn trái cây để tích điểm** 
-* **Tránh bánh răng để về đích** 
+* **Di chuyển:** Người chơi ấn phím A,W,D hoặc phím mũi tên để di chuyển.
+* **Ăn trái cây để tích điểm.** 
+* **Tránh bánh răng để về đích.** 
 
 ## 🛠️ Công nghệ sử dụng
 * OOP
@@ -16,7 +16,7 @@
 ## 💻 Cách cài đặt và chạy
 1.  Clone hoặc tải về repository này:
     ```bash
-   [https://github.com/tradaviahe99/Website.git](https://github.com/tradaviahe99/First_Game_2D.git)
+   https://github.com/tradaviahe99/First_Game_2D.git
     ```
 2.  Mở file bằng Unity của bạn.
 
