@@ -16,7 +16,7 @@
 ## 💻 Cách cài đặt và chạy
 1.  Clone hoặc tải về repository này:
     ```bash
-   https://github.com/tradaviahe99/First_Game_2D.git
+    https://github.com/tradaviahe99/First_Game_2D.git
     ```
 2.  Mở file bằng Unity của bạn.
 
